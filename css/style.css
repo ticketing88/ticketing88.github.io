@@ -592,6 +592,9 @@ font-family: "Noto Sans", sans-serif;
 
 
 @media screen and (max-width: 800px) {
+    .social_share{
+    margin: 0 0 2rem 0;
+}
   .footer-main {
     margin-top: 0;
     padding: 1rem;
